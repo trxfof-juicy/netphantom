@@ -4,9 +4,9 @@ setlocal enabledelayedexpansion
 color 06
 title MoistShit 💩
 
-set "filePath=C:\clients\vrchat\Basic Clients\MoistShit\net-scans.txt"
+set "Path to net-scans.txt"
 
-if not exist "C:\clients\vrchat\Basic Clients\MoistShit" mkdir "C:\clients\vrchat\Basic Clients\MoistShit"
+if not exist "Path to client" mkdir "Path to client"
 
 echo ================================================================
 echo                     [ MOISTSHIT 💩 ]
